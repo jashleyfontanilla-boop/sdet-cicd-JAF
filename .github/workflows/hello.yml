@@ -1,0 +1,11 @@
+name: Hello World
+on:
+  push:
+    branches: [main]
+
+jobs:
+  greet:
+    runs-on: macos-latest
+    steps:
+      - name: Say Hello
+        run: echo "Hellow from Github Actions!"
