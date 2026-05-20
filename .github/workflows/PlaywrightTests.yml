@@ -29,5 +29,5 @@ jobs:
         if: always()
         with:
           name: typescript-test-report
-          path: playwright-typescript/playwright-report/
+          path: allure-reports
           retention-days: 7

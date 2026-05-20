@@ -38,4 +38,14 @@ test.describe("SauceDemo Login Test Suite", {
 
     await pm.loginPage.verifyLockedOutAccount();
   });
+
+    test("Verify add Item and validate item count @regression", async ({ pm }) => {
+    await pm.loginPage.login(
+      userData.sauceDemo.validUser.username,
+      userData.sauceDemo.validUser.password
+    );
+
+    await pm.sauceDemoInventoryPage.addBackpackAndOpenCart();
+    await pm.sauceDemoInventoryPage.verifyCartBadgeCount("1");
+  });
 });
