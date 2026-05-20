@@ -1,0 +1,11 @@
+node_modules/
+dist/
+test-results/
+html-report/
+playwright-report/
+.env
+.DS_Store
+.playwright-mcp
+allure-report/
+allure-results/
+history.jsonl

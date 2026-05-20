@@ -1,0 +1,364 @@
+[2026-03-18T02:39:22.572Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"chromium-850ce3e","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-18T02:39:22.626Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-18T02:39:22.644Z] [DEBUG] qase: Starting test run
+[2026-03-18T02:39:22.647Z] [DEBUG] qase: Publishing test run results
+[2026-03-18T02:39:53.834Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"chromium-850ce3e","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-18T02:39:53.919Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-18T02:39:53.948Z] [DEBUG] qase: Starting test run
+[2026-03-18T02:39:53.952Z] [DEBUG] qase: Publishing test run results
+[2026-03-18T02:45:31.275Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"GChrome-cffd9ef","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-18T02:45:31.323Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-18T02:45:31.424Z] [DEBUG] qase: Starting test run
+[2026-03-18T02:46:12.850Z] [INFO] qase: [31mTest Verify section headers @regression failed[39m
+[2026-03-18T02:46:13.028Z] [DEBUG] qase: Publishing test run results
+[2026-03-18T02:50:35.224Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"GChrome-cffd9ef","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-18T02:50:35.273Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-18T02:50:35.370Z] [DEBUG] qase: Starting test run
+[2026-03-18T02:51:00.362Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-18T02:51:01.077Z] [DEBUG] qase: Publishing test run results
+[2026-03-18T03:06:02.261Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"GChrome-cffd9ef","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-18T03:06:02.312Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-18T03:06:02.393Z] [DEBUG] qase: Starting test run
+[2026-03-18T03:06:28.299Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-18T03:06:29.509Z] [DEBUG] qase: Publishing test run results
+[2026-03-18T03:09:07.639Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"GChrome-cffd9ef","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-18T03:09:07.693Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-18T03:09:07.805Z] [DEBUG] qase: Starting test run
+[2026-03-18T03:09:32.679Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-18T03:09:33.270Z] [DEBUG] qase: Publishing test run results
+[2026-03-18T03:11:00.609Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-18T03:11:00.659Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-18T03:11:00.765Z] [DEBUG] qase: Starting test run
+[2026-03-18T03:11:33.782Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-18T03:11:39.172Z] [INFO] qase: [93mTest Verify section headers @regression invalid[39m
+[2026-03-18T03:11:50.071Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-18T03:12:03.346Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-18T03:12:03.887Z] [DEBUG] qase: Publishing test run results
+[2026-03-18T03:15:38.228Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"cffd9ef","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-18T03:15:38.278Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-18T03:15:38.378Z] [DEBUG] qase: Starting test run
+[2026-03-18T03:16:23.760Z] [INFO] qase: [93mTest Verify section headers @regression invalid[39m
+[2026-03-18T03:16:44.149Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-18T03:16:47.938Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-18T03:17:03.968Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-18T03:17:04.701Z] [DEBUG] qase: Publishing test run results
+[2026-03-18T10:35:06.575Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"cffd9ef","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-18T10:35:06.637Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-18T10:35:06.749Z] [DEBUG] qase: Starting test run
+[2026-03-18T10:35:49.197Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-18T10:35:51.719Z] [INFO] qase: [93mTest Verify section headers @regression invalid[39m
+[2026-03-18T10:35:57.071Z] [INFO] qase: [31mTest Verify section headers @regression failed[39m
+[2026-03-18T10:36:17.271Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-18T10:36:17.923Z] [DEBUG] qase: Publishing test run results
+[2026-03-18T10:44:37.656Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"cffd9ef","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-18T10:44:37.710Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-18T10:44:37.811Z] [DEBUG] qase: Starting test run
+[2026-03-18T10:45:23.414Z] [INFO] qase: [93mTest Verify section headers @regression invalid[39m
+[2026-03-18T10:45:46.014Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-18T10:46:03.646Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-18T10:50:18.520Z] [DEBUG] qase: Publishing test run results
+[2026-03-18T11:37:57.263Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"cffd9ef","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-18T11:37:57.317Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-18T11:37:57.424Z] [DEBUG] qase: Starting test run
+[2026-03-18T11:38:39.210Z] [INFO] qase: [93mTest Verify section headers @regression invalid[39m
+[2026-03-18T11:38:49.798Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-18T11:38:57.158Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-18T11:39:11.900Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-18T11:39:12.610Z] [DEBUG] qase: Publishing test run results
+[2026-03-18T11:58:40.605Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"cffd9ef","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-18T11:58:40.658Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-18T11:58:40.749Z] [DEBUG] qase: Starting test run
+[2026-03-18T11:59:25.100Z] [INFO] qase: [93mTest Verify section headers @regression invalid[39m
+[2026-03-18T11:59:30.222Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-18T11:59:36.281Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-18T11:59:58.525Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-18T11:59:59.655Z] [DEBUG] qase: Publishing test run results
+[2026-03-18T13:06:28.419Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"GChrome-cffd9ef","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-18T13:06:28.475Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-18T13:06:28.591Z] [DEBUG] qase: Starting test run
+[2026-03-18T13:06:53.708Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-18T13:06:54.619Z] [DEBUG] qase: Publishing test run results
+[2026-03-19T04:44:22.277Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"GChrome-cffd9ef","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-19T04:44:22.343Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-19T04:44:22.473Z] [DEBUG] qase: Starting test run
+[2026-03-19T04:44:47.897Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-19T04:44:48.666Z] [DEBUG] qase: Publishing test run results
+[2026-03-19T05:01:23.558Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"GChrome-cffd9ef","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-19T05:01:23.612Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-19T05:01:23.719Z] [DEBUG] qase: Starting test run
+[2026-03-19T05:01:48.947Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-19T05:01:49.656Z] [DEBUG] qase: Publishing test run results
+[2026-03-19T05:54:38.401Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"GChrome-cffd9ef","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-19T05:54:38.455Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-19T05:54:38.557Z] [DEBUG] qase: Starting test run
+[2026-03-19T05:55:04.987Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-19T05:55:05.611Z] [DEBUG] qase: Publishing test run results
+[2026-03-19T06:04:28.647Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"GChrome-cffd9ef","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-19T06:04:28.708Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-19T06:04:28.801Z] [DEBUG] qase: Starting test run
+[2026-03-19T06:04:51.802Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-19T06:04:52.737Z] [DEBUG] qase: Publishing test run results
+[2026-03-19T07:29:37.342Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"GChrome-cffd9ef","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-19T07:29:37.397Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-19T07:29:37.511Z] [DEBUG] qase: Starting test run
+[2026-03-19T07:29:46.666Z] [INFO] qase: [93mTest Verify section headers @regression invalid[39m
+[2026-03-19T07:29:46.738Z] [DEBUG] qase: Publishing test run results
+[2026-03-19T07:30:12.412Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-19T07:30:12.462Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-19T07:30:12.547Z] [DEBUG] qase: Starting test run
+[2026-03-19T07:30:44.759Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-19T07:30:53.203Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-19T07:31:26.873Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-19T07:31:38.569Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-19T07:31:38.780Z] [DEBUG] qase: Publishing test run results
+[2026-03-19T07:34:44.717Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-19T07:34:44.786Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-19T07:34:44.894Z] [DEBUG] qase: Starting test run
+[2026-03-19T07:35:12.854Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-19T07:35:19.709Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-19T07:35:50.680Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-19T07:36:01.442Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-19T07:36:01.632Z] [DEBUG] qase: Publishing test run results
+[2026-03-19T07:44:24.393Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-19T07:44:24.451Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-19T07:44:24.554Z] [DEBUG] qase: Starting test run
+[2026-03-19T07:45:16.653Z] [INFO] qase: [31mTest Verify section headers @regression failed[39m
+[2026-03-19T07:45:37.211Z] [INFO] qase: [31mTest Verify section headers @regression failed[39m
+[2026-03-19T07:45:47.455Z] [INFO] qase: [31mTest Verify section headers @regression failed[39m
+[2026-03-19T07:45:57.561Z] [INFO] qase: [31mTest Verify section headers @regression failed[39m
+[2026-03-19T07:45:57.731Z] [DEBUG] qase: Publishing test run results
+[2026-03-19T07:50:01.701Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-19T07:50:01.763Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-19T07:50:01.903Z] [DEBUG] qase: Starting test run
+[2026-03-19T07:50:38.126Z] [INFO] qase: [93mTest Verify section headers @regression invalid[39m
+[2026-03-19T07:50:50.689Z] [INFO] qase: [31mTest Verify section headers @regression failed[39m
+[2026-03-19T07:51:06.859Z] [INFO] qase: [31mTest Verify section headers @regression failed[39m
+[2026-03-19T07:51:21.596Z] [INFO] qase: [31mTest Verify section headers @regression failed[39m
+[2026-03-19T07:51:21.805Z] [DEBUG] qase: Publishing test run results
+[2026-03-19T07:52:12.573Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-19T07:52:12.633Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-19T07:52:12.731Z] [DEBUG] qase: Starting test run
+[2026-03-19T07:52:48.348Z] [INFO] qase: [93mTest Verify section headers @regression invalid[39m
+[2026-03-19T07:53:02.577Z] [INFO] qase: [31mTest Verify section headers @regression failed[39m
+[2026-03-19T07:53:18.291Z] [INFO] qase: [31mTest Verify section headers @regression failed[39m
+[2026-03-19T07:53:29.497Z] [INFO] qase: [31mTest Verify section headers @regression failed[39m
+[2026-03-19T07:53:29.686Z] [DEBUG] qase: Publishing test run results
+[2026-03-19T11:36:18.693Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-19T11:36:18.749Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-19T11:36:18.904Z] [DEBUG] qase: Starting test run
+[2026-03-19T11:36:59.511Z] [INFO] qase: [93mTest Verify section headers @regression invalid[39m
+[2026-03-19T11:44:40.623Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-19T11:44:40.678Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-19T11:44:40.775Z] [DEBUG] qase: Starting test run
+[2026-03-19T11:45:26.232Z] [INFO] qase: [31mTest Verify section headers @regression failed[39m
+[2026-03-19T11:45:45.655Z] [INFO] qase: [31mTest Verify section headers @regression failed[39m
+[2026-03-19T11:45:55.917Z] [INFO] qase: [31mTest Verify section headers @regression failed[39m
+[2026-03-19T11:46:07.901Z] [INFO] qase: [31mTest Verify section headers @regression failed[39m
+[2026-03-19T11:46:08.086Z] [DEBUG] qase: Publishing test run results
+[2026-03-19T11:52:05.038Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"GChrome-cffd9ef","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-19T11:52:05.089Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-19T11:52:05.208Z] [DEBUG] qase: Starting test run
+[2026-03-19T11:52:41.386Z] [INFO] qase: [31mTest Verify section headers @regression failed[39m
+[2026-03-19T11:52:41.582Z] [DEBUG] qase: Publishing test run results
+[2026-03-19T11:54:36.406Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"GChrome-cffd9ef","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-19T11:54:36.456Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-19T11:54:36.598Z] [DEBUG] qase: Starting test run
+[2026-03-19T11:55:00.704Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-19T11:55:01.224Z] [DEBUG] qase: Publishing test run results
+[2026-03-19T11:55:53.179Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"GChrome-cffd9ef","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-19T11:55:53.230Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-19T11:55:53.333Z] [DEBUG] qase: Starting test run
+[2026-03-19T11:56:16.178Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-19T11:56:17.051Z] [DEBUG] qase: Publishing test run results
+[2026-03-19T12:06:57.171Z] [DEBUG] qase: Config: {"configDir":"C:\\Users\\fjufredieric\\Documents\\TypeScriptProject\\automation_playwright_typescript_template","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"MYCEBTIME","uploadAttachments":true,"run":{"id":1,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-03-19T12:06:57.220Z] [DEBUG] qase: Host data: {"system":"win32","machineName":"SGOAOCLFVNR9","release":"10.0.22631","version":"Microsoft Windows [Version 10.0.22631.6199]","arch":"x64","node":"v25.2.1","npm":"11.6.2","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-03-19T12:06:57.332Z] [DEBUG] qase: Starting test run
+[2026-03-19T12:07:27.286Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-19T12:07:40.860Z] [INFO] qase: [93mTest Verify section headers @regression invalid[39m
+[2026-03-19T12:07:41.696Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-19T12:07:55.472Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-03-19T12:07:55.962Z] [DEBUG] qase: Publishing test run results
+[2026-05-17T08:10:41.397Z] [DEBUG] qase: Config: {"configDir":"/Users/jafjashley/SauceDemo/saucedemo_typescript","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{},"project":"5J","uploadAttachments":true,"run":{"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-05-17T08:10:41.434Z] [DEBUG] qase: Host data: {"system":"darwin","machineName":"socaocmdgt7g.local","release":"25.0.0","version":"26.0.1","arch":"arm64","node":"v24.11.1","npm":"11.12.1","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-05-17T08:10:41.539Z] [DEBUG] qase: Starting test run
+[2026-05-17T08:10:59.246Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-05-17T08:10:59.690Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-05-17T08:11:09.268Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-05-17T08:11:13.476Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-05-17T08:11:13.549Z] [DEBUG] qase: Publishing test run results
+[2026-05-17T10:14:33.706Z] [DEBUG] qase: Config: {"configDir":"/Users/jafjashley/SauceDemo/saucedemo_typescript","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"ADP","uploadAttachments":true,"run":{"id":7,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-05-17T10:14:33.741Z] [DEBUG] qase: Host data: {"system":"darwin","machineName":"socaocmdgt7g.local","release":"25.0.0","version":"26.0.1","arch":"arm64","node":"v24.11.1","npm":"11.12.1","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-05-17T10:14:33.826Z] [DEBUG] qase: Starting test run
+[2026-05-17T10:14:48.195Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-05-17T10:14:48.847Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-05-17T10:15:05.390Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T10:15:05.390Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T10:15:05.390Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T10:15:20.557Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T10:15:20.557Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T10:15:20.558Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T10:15:23.538Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-05-17T10:15:36.386Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T10:15:36.386Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T10:15:36.386Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T10:15:54.821Z] [INFO] qase: [32mTest Verify section headers @regression passed[39m
+[2026-05-17T10:15:55.117Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T10:15:55.117Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T10:15:55.117Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T10:15:55.136Z] [DEBUG] qase: Publishing test run results
+[2026-05-17T10:21:19.436Z] [DEBUG] qase: Config: {"configDir":"/Users/jafjashley/SauceDemo/saucedemo_typescript","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"ADP","uploadAttachments":true,"run":{"id":7,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-05-17T10:21:19.471Z] [DEBUG] qase: Host data: {"system":"darwin","machineName":"socaocmdgt7g.local","release":"25.0.0","version":"26.0.1","arch":"arm64","node":"v24.11.1","npm":"11.12.1","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-05-17T10:21:19.531Z] [DEBUG] qase: Starting test run
+[2026-05-17T10:21:21.860Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T10:21:21.860Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T10:21:21.860Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T10:21:22.196Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T10:21:22.196Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T10:21:22.196Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T10:21:23.296Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T10:21:23.297Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T10:21:23.297Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T10:21:24.576Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T10:21:24.576Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T10:21:24.576Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T10:21:24.589Z] [DEBUG] qase: Publishing test run results
+[2026-05-17T10:22:17.005Z] [DEBUG] qase: Config: {"configDir":"/Users/jafjashley/SauceDemo/saucedemo_typescript","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"ADP","uploadAttachments":true,"run":{"id":7,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-05-17T10:22:17.040Z] [DEBUG] qase: Host data: {"system":"darwin","machineName":"socaocmdgt7g.local","release":"25.0.0","version":"26.0.1","arch":"arm64","node":"v24.11.1","npm":"11.12.1","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-05-17T10:22:17.063Z] [DEBUG] qase: Starting test run
+[2026-05-17T10:22:19.282Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T10:22:19.300Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T10:22:19.301Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T10:22:19.327Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T10:22:19.328Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T10:22:19.328Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T10:22:20.348Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T10:22:20.348Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T10:22:20.349Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T10:22:21.825Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T10:22:21.825Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T10:22:21.825Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T10:22:21.839Z] [DEBUG] qase: Publishing test run results
+[2026-05-17T10:24:43.320Z] [DEBUG] qase: Config: {"configDir":"/Users/jafjashley/SauceDemo/saucedemo_typescript","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"ADP","uploadAttachments":true,"run":{"id":7,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-05-17T10:24:43.352Z] [DEBUG] qase: Host data: {"system":"darwin","machineName":"socaocmdgt7g.local","release":"25.0.0","version":"26.0.1","arch":"arm64","node":"v24.11.1","npm":"11.12.1","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-05-17T10:24:43.409Z] [DEBUG] qase: Starting test run
+[2026-05-17T10:24:45.819Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T10:24:45.819Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T10:24:45.819Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T10:24:46.062Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T10:24:46.062Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T10:24:46.062Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T10:24:46.823Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T10:24:46.823Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T10:24:46.823Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T10:24:48.360Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T10:24:48.360Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T10:24:48.361Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T10:24:48.374Z] [DEBUG] qase: Publishing test run results
+[2026-05-17T10:28:01.993Z] [DEBUG] qase: Config: {"configDir":"/Users/jafjashley/SauceDemo/saucedemo_typescript","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"ADP","uploadAttachments":true,"run":{"id":7,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-05-17T10:28:02.028Z] [DEBUG] qase: Host data: {"system":"darwin","machineName":"socaocmdgt7g.local","release":"25.0.0","version":"26.0.1","arch":"arm64","node":"v24.11.1","npm":"11.12.1","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-05-17T10:28:02.084Z] [DEBUG] qase: Starting test run
+[2026-05-17T10:28:04.290Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T10:28:04.290Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T10:28:04.290Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T10:28:04.345Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T10:28:04.345Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T10:28:04.345Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T10:28:05.084Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T10:28:05.084Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T10:28:05.085Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T10:28:06.538Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T10:28:06.546Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T10:28:06.546Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T10:28:06.560Z] [DEBUG] qase: Publishing test run results
+[2026-05-17T10:30:29.522Z] [DEBUG] qase: Config: {"configDir":"/Users/jafjashley/SauceDemo/saucedemo_typescript","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"ADP","uploadAttachments":true,"run":{"id":7,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-05-17T10:30:29.558Z] [DEBUG] qase: Host data: {"system":"darwin","machineName":"socaocmdgt7g.local","release":"25.0.0","version":"26.0.1","arch":"arm64","node":"v24.11.1","npm":"11.12.1","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-05-17T10:30:29.626Z] [DEBUG] qase: Starting test run
+[2026-05-17T11:04:44.090Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T11:04:44.107Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T11:04:44.107Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T11:04:44.345Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T11:04:44.345Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T11:04:44.345Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T11:04:46.940Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T11:04:46.941Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T11:04:46.941Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T11:04:48.136Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T11:04:48.136Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T11:04:48.136Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T11:04:48.145Z] [DEBUG] qase: Publishing test run results
+[2026-05-17T11:10:08.230Z] [DEBUG] qase: Config: {"configDir":"/Users/jafjashley/SauceDemo/saucedemo_typescript","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"ADP","uploadAttachments":true,"run":{"id":7,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-05-17T11:10:08.250Z] [DEBUG] qase: Host data: {"system":"darwin","machineName":"socaocmdgt7g.local","release":"25.0.0","version":"26.0.1","arch":"arm64","node":"v24.11.1","npm":"11.12.1","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-05-17T11:10:08.275Z] [DEBUG] qase: Starting test run
+[2026-05-17T11:10:39.369Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T11:10:39.370Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T11:10:39.370Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T11:10:39.512Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T11:10:39.512Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T11:10:39.512Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T11:10:40.357Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T11:10:40.357Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T11:10:40.357Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T11:11:10.834Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T11:11:10.834Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T11:11:10.834Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T11:11:10.879Z] [DEBUG] qase: Publishing test run results
+[2026-05-17T11:12:43.738Z] [DEBUG] qase: Config: {"configDir":"/Users/jafjashley/SauceDemo/saucedemo_typescript","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"ADP","uploadAttachments":true,"run":{"id":7,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-05-17T11:12:43.772Z] [DEBUG] qase: Host data: {"system":"darwin","machineName":"socaocmdgt7g.local","release":"25.0.0","version":"26.0.1","arch":"arm64","node":"v24.11.1","npm":"11.12.1","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-05-17T11:12:43.829Z] [DEBUG] qase: Starting test run
+[2026-05-17T11:12:45.884Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T11:12:45.884Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T11:12:45.884Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T11:12:45.962Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T11:12:45.962Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T11:12:45.963Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T11:12:46.744Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T11:12:46.744Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T11:12:46.744Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T11:12:48.126Z] [INFO] qase: [93mTest Verify user can login using valid credentials @regression invalid[39m
+[2026-05-17T11:12:48.134Z] [INFO] qase: [94mTest Verify error message for invalid credentials @regression skipped[39m
+[2026-05-17T11:12:48.134Z] [INFO] qase: [94mTest Verify locked out user cannot login @regression skipped[39m
+[2026-05-17T11:12:48.146Z] [DEBUG] qase: Publishing test run results
+[2026-05-17T11:15:50.871Z] [DEBUG] qase: Config: {"configDir":"/Users/jafjashley/SauceDemo/saucedemo_typescript","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"ADP","uploadAttachments":true,"run":{"id":7,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-05-17T11:15:50.903Z] [DEBUG] qase: Host data: {"system":"darwin","machineName":"socaocmdgt7g.local","release":"25.0.0","version":"26.0.1","arch":"arm64","node":"v24.11.1","npm":"11.12.1","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-05-17T11:15:50.975Z] [DEBUG] qase: Starting test run
+[2026-05-17T11:15:53.735Z] [INFO] qase: [32mTest Verify user can login using valid credentials @regression passed[39m
+[2026-05-17T11:15:53.813Z] [INFO] qase: [32mTest Verify user can login using valid credentials @regression passed[39m
+[2026-05-17T11:15:54.088Z] [INFO] qase: [32mTest Verify user can login using valid credentials @regression passed[39m
+[2026-05-17T11:15:54.832Z] [INFO] qase: [32mTest Verify error message for invalid credentials @regression passed[39m
+[2026-05-17T11:15:54.859Z] [INFO] qase: [32mTest Verify error message for invalid credentials @regression passed[39m
+[2026-05-17T11:15:55.505Z] [INFO] qase: [32mTest Verify error message for invalid credentials @regression passed[39m
+[2026-05-17T11:16:05.876Z] [INFO] qase: [31mTest Verify locked out user cannot login @regression failed[39m
+[2026-05-17T11:16:06.317Z] [INFO] qase: [31mTest Verify locked out user cannot login @regression failed[39m
+[2026-05-17T11:16:06.640Z] [INFO] qase: [31mTest Verify locked out user cannot login @regression failed[39m
+[2026-05-17T11:16:08.596Z] [INFO] qase: [32mTest Verify user can login using valid credentials @regression passed[39m
+[2026-05-17T11:16:09.712Z] [INFO] qase: [32mTest Verify error message for invalid credentials @regression passed[39m
+[2026-05-17T11:16:21.050Z] [INFO] qase: [31mTest Verify locked out user cannot login @regression failed[39m
+[2026-05-17T11:16:21.069Z] [DEBUG] qase: Publishing test run results
+[2026-05-18T03:39:25.451Z] [DEBUG] qase: Config: {"configDir":"/Users/jafjashley/SauceDemo/saucedemo_typescript","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"ADP","uploadAttachments":true,"run":{"id":7,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-05-18T03:39:25.488Z] [DEBUG] qase: Host data: {"system":"darwin","machineName":"socaocmdgt7g.local","release":"25.0.0","version":"26.0.1","arch":"arm64","node":"v24.11.1","npm":"11.12.1","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-05-18T03:39:25.531Z] [DEBUG] qase: Starting test run
+[2026-05-18T03:39:28.564Z] [INFO] qase: [32mTest Verify user can login using valid credentials @regression passed[39m
+[2026-05-18T03:39:29.868Z] [INFO] qase: [32mTest Verify error message for invalid credentials @regression passed[39m
+[2026-05-18T03:39:40.986Z] [INFO] qase: [31mTest Verify locked out user cannot login @regression failed[39m
+[2026-05-18T03:39:41.005Z] [DEBUG] qase: Publishing test run results
+[2026-05-18T03:43:59.791Z] [DEBUG] qase: Config: {"configDir":"/Users/jafjashley/SauceDemo/saucedemo_typescript","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"ADP","uploadAttachments":true,"run":{"id":7,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-05-18T03:43:59.822Z] [DEBUG] qase: Host data: {"system":"darwin","machineName":"socaocmdgt7g.local","release":"25.0.0","version":"26.0.1","arch":"arm64","node":"v24.11.1","npm":"11.12.1","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-05-18T03:43:59.918Z] [DEBUG] qase: Starting test run
+[2026-05-18T03:44:03.547Z] [INFO] qase: [32mTest Verify user can login using valid credentials @regression passed[39m
+[2026-05-18T03:44:04.502Z] [INFO] qase: [32mTest Verify error message for invalid credentials @regression passed[39m
+[2026-05-18T03:44:05.769Z] [INFO] qase: [32mTest Verify locked out user cannot login @regression passed[39m
+[2026-05-18T03:44:05.800Z] [DEBUG] qase: Publishing test run results
+[2026-05-19T04:37:30.135Z] [DEBUG] qase: Config: {"configDir":"/Users/jafjashley/SauceDemo/saucedemo_typescript","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"ADP","uploadAttachments":true,"run":{"id":7,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-05-19T04:37:30.172Z] [DEBUG] qase: Host data: {"system":"darwin","machineName":"192.168.254.104","release":"25.0.0","version":"26.0.1","arch":"arm64","node":"v24.11.1","npm":"11.12.1","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-05-19T04:37:30.218Z] [DEBUG] qase: Starting test run
+[2026-05-19T04:37:34.868Z] [INFO] qase: [32mTest Verify user can login using valid credentials @regression passed[39m
+[2026-05-19T04:37:36.245Z] [INFO] qase: [32mTest Verify error message for invalid credentials @regression passed[39m
+[2026-05-19T04:37:37.663Z] [INFO] qase: [32mTest Verify locked out user cannot login @regression passed[39m
+[2026-05-19T04:37:37.820Z] [DEBUG] qase: Publishing test run results
+[2026-05-20T05:55:46.846Z] [DEBUG] qase: Config: {"configDir":"/Users/jafjashley/sdet-cicd-JAF","_mode":"test","_commandHash":"","mode":"off","debug":true,"testops":{"api":{"token":"d5f****703b"},"project":"ADP","uploadAttachments":true,"run":{"id":7,"complete":false,"tags":[]},"plan":{},"batch":{}},"frameworkPackage":"@playwright/test","frameworkName":"playwright","reporterName":"playwright-qase-reporter","report":{"connections":{"local":{}}}}
+[2026-05-20T05:55:46.875Z] [DEBUG] qase: Host data: {"system":"darwin","machineName":"192.168.254.104","release":"25.0.0","version":"26.0.1","arch":"arm64","node":"v24.11.1","npm":"11.12.1","framework":"1.58.2","reporter":"2.2.3","commons":"2.5.8","apiClientV1":"1.1.2","apiClientV2":"1.0.4"}
+[2026-05-20T05:55:47.005Z] [DEBUG] qase: Starting test run
+[2026-05-20T05:55:53.280Z] [INFO] qase: [32mTest Verify user can login using valid credentials @regression passed[39m
+[2026-05-20T05:55:54.568Z] [INFO] qase: [32mTest Verify error message for invalid credentials @regression passed[39m
+[2026-05-20T05:55:55.849Z] [INFO] qase: [32mTest Verify locked out user cannot login @regression passed[39m
+[2026-05-20T05:55:55.993Z] [DEBUG] qase: Publishing test run results
