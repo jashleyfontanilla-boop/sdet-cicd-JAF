@@ -3,7 +3,8 @@ import { homePage } from "../functions/homePageMethods";
 import { navbarPage } from "../functions/navigationMethods";
 import { privacyPolicyCookie } from "../functions/modals/privacyPolicyCookie";
 import { ScreenshotHelper } from "./screenshot";
-import { loginPage } from "main/functions/loginPageMethod";
+import { loginPage  } from "main/functions/loginPageMethod";
+import { sauceDemoInventoryPage } from "main/functions/sauceDemoInventoryPageMethods";
 
 /**
  * Central lazy-load Page Object provider.
@@ -23,6 +24,7 @@ export class PageManager {
   private _navbarPage?: navbarPage;
   private _privacyPolicyCookie?: privacyPolicyCookie;
   private _loginPage?: loginPage;
+  private _sauceDemoInventoryPage?: sauceDemoInventoryPage;
 
   constructor(page: Page, testInfo: TestInfo) {
     this.page = page;
@@ -68,5 +70,17 @@ get loginPage(): loginPage {
     );
   }
   return this._loginPage;
+  }
+
+  /** Sauce Demo Inventory Page – lazy-loaded on first access */
+get sauceDemoInventoryPage(): sauceDemoInventoryPage {
+  if (!this._sauceDemoInventoryPage) {
+    this._sauceDemoInventoryPage = new sauceDemoInventoryPage(
+      this.page,
+      this.testInfo,
+      this.screenshot
+    );
+  }
+  return this._sauceDemoInventoryPage;
   }
 }

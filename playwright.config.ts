@@ -45,7 +45,7 @@ export default defineConfig({
     ['junit', { outputFile: 'test-results/junit-report.xml' }],
   ],
   use: {
-    baseURL: process.env.BASE_URL || 'http://cebhospapps01',
+    baseURL: process.env.BASE_URL || 'http://saucedemo.com',
     httpCredentials: {
       username: formData.username,
       password: formData.password,
